@@ -1,7 +1,5 @@
 package com.example.hw2.functions
 
-import android.health.connect.datatypes.units.Length
-
 fun toFahrenheit(degree: Double): Double{
     var fahrenheit= degree*1.8+32
     return fahrenheit
